@@ -1,2 +1,14 @@
-# suspicious-url-detector
-A lightweight Python tool that analyzes URLs to detect potential phishing and security risks using heuristic-based rules.
+# 🔐 Suspicious URL Detector
+
+A simple Python tool to analyze URLs and detect potential phishing indicators.
+
+## 🚀 Features
+- Detects insecure HTTP usage
+- Identifies IP-based URLs
+- Flags Alexapuntocom 
+suspicious keywords
+- Checks abnormal URL length
+
+## ⚙️ Usage
+```bash
+python url_detector.py
